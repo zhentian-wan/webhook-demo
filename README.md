@@ -16,3 +16,4 @@ Start a ngrok:
 ./ngrok http 3000
 ```
 
+### Add webhook on Github setting page
