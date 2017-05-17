@@ -19,3 +19,9 @@ Start a ngrok:
 ### Add webhook on Github setting page
 
 ### Deploying with now
+
+```bash
+now
+```
+
+Then you can update webhook in github point to the deployed address.
